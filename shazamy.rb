@@ -104,4 +104,4 @@ class Shazamy
   end
 end
 
-Shazamy.new.run ARGV[2]
+Shazamy.new.run ARGV[0]
