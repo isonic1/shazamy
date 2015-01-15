@@ -7,8 +7,8 @@ Requirements:
   * Ruby 1.9.3 or greater.
   * Bundler
   
-1. Clone repo
-2. bundle install
-3. ruby shazamy.rb <port>
+  1. Clone repo
+  2. bundle install
+  3. ruby shazamy.rb port
 
 Todo: Turn into a gem.
