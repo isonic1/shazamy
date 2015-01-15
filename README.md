@@ -1,5 +1,5 @@
 # SHAZAMY
-* Parse shazam data from Shazam Mac App
+* Parse data from Shazam Mac App
 
 Requirements:
   * Runs only on a Mac
@@ -9,7 +9,9 @@ Requirements:
   * Bundler
   
   1. Clone repo
-  2. bundle install
-  3. ruby shazamy.rb port
+  2. cd shazamy
+  3. gem install bundler (if not already have it)
+  4. bundle install
+  5. ruby shazamy.rb port (e.g. ruby shazamy.rb 8888)
 
 Todo: Turn into a gem.
