@@ -12,6 +12,6 @@ Requirements:
   2. cd shazamy
   3. gem install bundler (if not already have it)
   4. bundle install
-  5. ruby shazamy.rb port (e.g. ruby shazamy.rb 8888)
+  * ruby shazamy.rb port (e.g. ruby shazamy.rb 8888)
 
 Todo: Turn into a gem.
